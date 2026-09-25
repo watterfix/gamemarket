@@ -1,0 +1,429 @@
+[
+    {
+        "id": "cyberpunk-2077",
+        "title": "Cyberpunk 2077",
+        "genre": "RPG",
+        "price": 1999,
+        "desc": "Экшен-RPG в открытом мире Найт-Сити.",
+        "stock": 20,
+        "screenshots": [
+            "assets\/uploads\/games\/fdb18b39e17e5d05.jpg",
+            "assets\/uploads\/games\/173faae71a5f897d.jpg"
+        ],
+        "cover": "assets\/uploads\/games\/0cd860597b3f8176.jpg"
+    },
+    {
+        "id": "witcher-3",
+        "title": "The Witcher 3: Wild Hunt",
+        "genre": "RPG",
+        "price": 999,
+        "desc": "Ведьмак Геральт в поисках приёмной дочери.",
+        "stock": 20,
+        "screenshots": []
+    },
+    {
+        "id": "baldurs-gate-3",
+        "title": "Baldur's Gate 3",
+        "genre": "RPG",
+        "price": 2799,
+        "desc": "Эпическая RPG по мотивам вселенной D&D.",
+        "stock": 8,
+        "screenshots": []
+    },
+    {
+        "id": "disco-elysium",
+        "title": "Disco Elysium",
+        "genre": "RPG",
+        "price": 1299,
+        "desc": "Детектив-RPG с глубоким диалоговым повествованием.",
+        "stock": 15,
+        "screenshots": []
+    },
+    {
+        "id": "divinity-original-sin-2",
+        "title": "Divinity: Original Sin 2",
+        "genre": "RPG",
+        "price": 1599,
+        "desc": "Кооперативная тактическая RPG с гибкой системой стихий.",
+        "stock": 10,
+        "screenshots": []
+    },
+    {
+        "id": "mass-effect-legendary",
+        "title": "Mass Effect Legendary Edition",
+        "genre": "RPG",
+        "price": 1899,
+        "desc": "Трилогия космической RPG о капитане Шепарде.",
+        "stock": 9,
+        "screenshots": []
+    },
+    {
+        "id": "gta-v",
+        "title": "GTA V",
+        "genre": "Экшен",
+        "price": 1499,
+        "desc": "Криминальный опен-ворлд Лос-Сантоса.",
+        "stock": 25,
+        "screenshots": []
+    },
+    {
+        "id": "rdr2",
+        "title": "Red Dead Redemption 2",
+        "genre": "Экшен",
+        "price": 2499,
+        "desc": "Вестерн об Артуре Моргане и банде Ван дер Линде.",
+        "stock": 14,
+        "screenshots": []
+    },
+    {
+        "id": "god-of-war",
+        "title": "God of War",
+        "genre": "Экшен",
+        "price": 1999,
+        "desc": "Кратос и Атрей в мире северных богов.",
+        "stock": 18,
+        "screenshots": []
+    },
+    {
+        "id": "god-of-war-ragnarok",
+        "title": "God of War Ragnarök",
+        "genre": "Экшен",
+        "price": 2199,
+        "desc": "Продолжение истории Кратоса и Атрея в скандинавском эпосе.",
+        "stock": 10,
+        "screenshots": []
+    },
+    {
+        "id": "horizon-zero-dawn",
+        "title": "Horizon Zero Dawn",
+        "genre": "Экшен",
+        "price": 1599,
+        "desc": "Охотница Элой против механических зверей постапокалипсиса.",
+        "stock": 16,
+        "screenshots": []
+    },
+    {
+        "id": "elden-ring",
+        "title": "Elden Ring",
+        "genre": "Souls-like",
+        "price": 2999,
+        "desc": "Тёмное фэнтези от FromSoftware в открытом мире.",
+        "stock": 7,
+        "screenshots": []
+    },
+    {
+        "id": "dark-souls-3",
+        "title": "Dark Souls III",
+        "genre": "Souls-like",
+        "price": 1299,
+        "desc": "Мрачный увядающий мир Лотрика.",
+        "stock": 11,
+        "screenshots": []
+    },
+    {
+        "id": "sekiro",
+        "title": "Sekiro: Shadows Die Twice",
+        "genre": "Souls-like",
+        "price": 2199,
+        "desc": "Синоби мстит в мрачной Японии периода Сэнгоку.",
+        "stock": 6,
+        "screenshots": []
+    },
+    {
+        "id": "hades",
+        "title": "Hades",
+        "genre": "Rogue-like",
+        "price": 699,
+        "desc": "Побег из подземного царства Аида.",
+        "stock": 30,
+        "screenshots": []
+    },
+    {
+        "id": "dead-cells",
+        "title": "Dead Cells",
+        "genre": "Rogue-like",
+        "price": 599,
+        "desc": "Метроидвания-рогалик с процедурными уровнями замка.",
+        "stock": 22,
+        "screenshots": []
+    },
+    {
+        "id": "slay-the-spire",
+        "title": "Slay the Spire",
+        "genre": "Rogue-like",
+        "price": 499,
+        "desc": "Карточный рогалик с восхождением по башне.",
+        "stock": 19,
+        "screenshots": []
+    },
+    {
+        "id": "stardew-valley",
+        "title": "Stardew Valley",
+        "genre": "Симулятор",
+        "price": 399,
+        "desc": "Своя ферма, рыбалка и уютная жизнь в деревне.",
+        "stock": 40,
+        "screenshots": []
+    },
+    {
+        "id": "euro-truck-simulator-2",
+        "title": "Euro Truck Simulator 2",
+        "genre": "Симулятор",
+        "price": 799,
+        "desc": "Перевозки по дорогам Европы за рулём фуры.",
+        "stock": 17,
+        "screenshots": []
+    },
+    {
+        "id": "minecraft",
+        "title": "Minecraft",
+        "genre": "Песочница",
+        "price": 1699,
+        "desc": "Стройте и выживайте в бескрайнем блочном мире.",
+        "stock": -1,
+        "screenshots": []
+    },
+    {
+        "id": "terraria",
+        "title": "Terraria",
+        "genre": "Песочница",
+        "price": 349,
+        "desc": "2D-песочница с крафтом, боссами и выживанием.",
+        "stock": 28,
+        "screenshots": []
+    },
+    {
+        "id": "portal-2",
+        "title": "Portal 2",
+        "genre": "Головоломка",
+        "price": 499,
+        "desc": "Головоломки с порталами и сарказмом GLaDOS.",
+        "stock": 21,
+        "screenshots": []
+    },
+    {
+        "id": "hollow-knight",
+        "title": "Hollow Knight",
+        "genre": "Метроидвания",
+        "price": 599,
+        "desc": "Путешествие по подземному миру Халлоунест.",
+        "stock": 24,
+        "screenshots": []
+    },
+    {
+        "id": "ori-and-the-blind-forest",
+        "title": "Ori and the Blind Forest",
+        "genre": "Метроидвания",
+        "price": 699,
+        "desc": "Красивое приключение духа Ори в заколдованном лесу.",
+        "stock": 13,
+        "screenshots": []
+    },
+    {
+        "id": "counter-strike-2",
+        "title": "Counter-Strike 2",
+        "genre": "Шутер",
+        "price": 0,
+        "desc": "Командный тактический шутер. Бесплатно.",
+        "stock": -1,
+        "screenshots": []
+    },
+    {
+        "id": "half-life-2",
+        "title": "Half-Life 2",
+        "genre": "Шутер",
+        "price": 399,
+        "desc": "Гордон Фримен против Альянса в антиутопичном Сити-17.",
+        "stock": 15,
+        "screenshots": []
+    },
+    {
+        "id": "doom-eternal",
+        "title": "DOOM Eternal",
+        "genre": "Шутер",
+        "price": 1699,
+        "desc": "Стремительный шутер против армий ада.",
+        "stock": 10,
+        "screenshots": []
+    },
+    {
+        "id": "left-4-dead-2",
+        "title": "Left 4 Dead 2",
+        "genre": "Шутер",
+        "price": 499,
+        "desc": "Кооперативное выживание против орд зомби.",
+        "stock": 20,
+        "screenshots": []
+    },
+    {
+        "id": "civilization-6",
+        "title": "Sid Meier's Civilization VI",
+        "genre": "Стратегия",
+        "price": 1499,
+        "desc": "Пошаговая стратегия — постройте величайшую цивилизацию.",
+        "stock": 12,
+        "screenshots": []
+    },
+    {
+        "id": "age-of-empires-4",
+        "title": "Age of Empires IV",
+        "genre": "Стратегия",
+        "price": 1799,
+        "desc": "Классическая RTS про войны и развитие империй.",
+        "stock": 9,
+        "screenshots": []
+    },
+    {
+        "id": "total-war-warhammer-3",
+        "title": "Total War: Warhammer III",
+        "genre": "Стратегия",
+        "price": 2399,
+        "desc": "Масштабные сражения фэнтезийных армий.",
+        "stock": 6,
+        "screenshots": []
+    },
+    {
+        "id": "forza-horizon-5",
+        "title": "Forza Horizon 5",
+        "genre": "Гонки",
+        "price": 2599,
+        "desc": "Аркадные гонки по открытому миру Мексики.",
+        "stock": 8,
+        "screenshots": []
+    },
+    {
+        "id": "need-for-speed-heat",
+        "title": "Need for Speed Heat",
+        "genre": "Гонки",
+        "price": 999,
+        "desc": "Уличные гонки днём и ночью в Палм-Сити.",
+        "stock": 14,
+        "screenshots": []
+    },
+    {
+        "id": "ea-sports-fc-24",
+        "title": "EA Sports FC 24",
+        "genre": "Спорт",
+        "price": 2999,
+        "desc": "Симулятор футбола с лицензированными командами.",
+        "stock": 10,
+        "screenshots": []
+    },
+    {
+        "id": "nba-2k24",
+        "title": "NBA 2K24",
+        "genre": "Спорт",
+        "price": 2799,
+        "desc": "Баскетбольный симулятор с режимом карьеры.",
+        "stock": 9,
+        "screenshots": []
+    },
+    {
+        "id": "resident-evil-4",
+        "title": "Resident Evil 4",
+        "genre": "Хоррор",
+        "price": 2099,
+        "desc": "Ремейк культового survival-horror про спасение президентской дочери.",
+        "stock": 11,
+        "screenshots": []
+    },
+    {
+        "id": "dead-space",
+        "title": "Dead Space",
+        "genre": "Хоррор",
+        "price": 1899,
+        "desc": "Инженер Айзек Кларк против некроморфов на станции «Ишимура».",
+        "stock": 13,
+        "screenshots": []
+    },
+    {
+        "id": "phasmophobia",
+        "title": "Phasmophobia",
+        "genre": "Хоррор",
+        "price": 349,
+        "desc": "Кооперативная охота на призраков с реальным оборудованием.",
+        "stock": 26,
+        "screenshots": []
+    },
+    {
+        "id": "outlast",
+        "title": "Outlast",
+        "genre": "Хоррор",
+        "price": 399,
+        "desc": "Журналист расследует ужасы психиатрической лечебницы.",
+        "stock": 17,
+        "screenshots": []
+    },
+    {
+        "id": "the-last-of-us-part-1",
+        "title": "The Last of Us Part I",
+        "genre": "Приключение",
+        "price": 2199,
+        "desc": "Путешествие Джоэла и Элли через постапокалиптическую Америку.",
+        "stock": 9,
+        "screenshots": []
+    },
+    {
+        "id": "subnautica",
+        "title": "Subnautica",
+        "genre": "Приключение",
+        "price": 899,
+        "desc": "Выживание и исследование подводного мира чужой планеты.",
+        "stock": 18,
+        "screenshots": []
+    },
+    {
+        "id": "valheim",
+        "title": "Valheim",
+        "genre": "Выживание",
+        "price": 799,
+        "desc": "Выживание и постройка в мире, вдохновлённом викингами.",
+        "stock": 20,
+        "screenshots": []
+    },
+    {
+        "id": "raft",
+        "title": "Raft",
+        "genre": "Выживание",
+        "price": 699,
+        "desc": "Выживание на плоту посреди бескрайнего океана.",
+        "stock": 16,
+        "screenshots": []
+    },
+    {
+        "id": "among-us",
+        "title": "Among Us",
+        "genre": "Инди",
+        "price": 149,
+        "desc": "Социальная дедукция — найдите предателя на корабле.",
+        "stock": -1,
+        "screenshots": []
+    },
+    {
+        "id": "cuphead",
+        "title": "Cuphead",
+        "genre": "Инди",
+        "price": 599,
+        "desc": "Платформер с ручной анимацией в стиле мультфильмов 1930-х.",
+        "stock": 15,
+        "screenshots": []
+    },
+    {
+        "id": "mortal-kombat-11",
+        "title": "Mortal Kombat 11",
+        "genre": "Файтинг",
+        "price": 1499,
+        "desc": "Жестокий файтинг с фирменными фаталити.",
+        "stock": 10,
+        "screenshots": []
+    },
+    {
+        "id": "tekken-8",
+        "title": "Tekken 8",
+        "genre": "Файтинг",
+        "price": 3499,
+        "desc": "Динамичный 3D-файтинг с богатым ростером бойцов.",
+        "stock": 7,
+        "screenshots": []
+    }
+]
